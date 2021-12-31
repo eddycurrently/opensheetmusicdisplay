@@ -122,4 +122,10 @@
       "path": "./node_modules/cz-conventional-changelog"
     }
   }
+  "nativescript": {
+    "platforms": {
+      "ios": "3.0.0",
+      "android": "3.0.0"
+    }
+  }
 }
